@@ -39,11 +39,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Certifications
-- ☁️ AWS Academy Cloud Foundations
-- ☁️ AWS Engineering Operations Technicians
-- 🔐 IBM Cybersecurity Fundamentals
-- 📊 IBM Data Fundamentals
-- 🐍 IBM Python for Data Science
+- AWS Academy Cloud Foundations
+- AWS Engineering Operations Technicians
+- IBM Cybersecurity Fundamentals
+- IBM Data Fundamentals
+- IBM Python for Data Science
 
 ### Fun fact ...
 I build real websites for real businesses while still in university — check out my projects below!
